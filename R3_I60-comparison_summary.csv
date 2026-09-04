@@ -1,0 +1,4 @@
+﻿algorithm,pareto_solutions,hypervolume,best_known_pareto_solutions,best_known_pareto_proportion,elapsed_seconds
+Improved NSGA-II,94,0.45183841,88,0.83018868,64.133712
+TLMOVNS,9,0.31541793,7,0.06603774,600.001103
+CPLEX,13,0.31127976,11,0.10377358,863.701879
